@@ -28,8 +28,3 @@
 
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31wgxkahtwpfmyhcl2moui5azrbm&count=5" /></div> 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
