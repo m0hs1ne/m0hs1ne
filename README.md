@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 [![Spotify](https://spotify-m0hs1ne.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/31wgxkahtwpfmyhcl2moui5azrbm)
 
-![Visitor Count](https://profile-counter.glitch.me/m0hs1ne/count.svg)
