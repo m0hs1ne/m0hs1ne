@@ -2,7 +2,7 @@
 
 ### - I'm Mohsine aka m0hs1ne a skinny passionate programmer from Morocco
 
-<img hight="200" width="250" alt="GIF" align="right" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/giphy.webp">
+<img hight="250" width="300" alt="GIF" align="right" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/giphy.webp">
 
 ### - Learning :
 - ✨ I'm currently studying at 1337 i will update this section when i find myself.
