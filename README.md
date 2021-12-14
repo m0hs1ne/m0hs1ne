@@ -15,3 +15,5 @@
 
 ![Repos Badge](https://badges.pufler.dev/repos/m0hs1ne)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/m0hs1ne)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
