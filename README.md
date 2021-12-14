@@ -26,6 +26,5 @@
 
 # I love music 🎧 :
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div> 
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31wgxkahtwpfmyhcl2moui5azrbm&count=10" /></div> 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wgxkahtwpfmyhcl2moui5azrbm&unique={true|1|on|yes})
