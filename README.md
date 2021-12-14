@@ -20,7 +20,7 @@
 </br>
 </br>
 
-## My stats at 1337 📊 :
+# My stats at 1337 📊 :
 
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/mel-hada?" /></div>
 
