@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
 
-[![Spotify](https://spotify-m0hs1ne.vercel.app/api/spotify)](https://open.spotify.com/user/m0hs1ne)
+[![Spotify](https://spotify-m0hs1ne.vercel.app/api/spotify)](https://open.spotify.com/user/31wgxkahtwpfmyhcl2moui5azrbm)
