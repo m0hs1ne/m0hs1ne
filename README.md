@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)](https://github.com/JaeSeoKim/badge42)
-[![Spotify](spotify-m0hs1ne.vercel.app/api/spotify)](https://open.spotify.com/user/31wgxkahtwpfmyhcl2moui5azrbm)
