@@ -7,7 +7,7 @@
   
 
 - 🌱 I’m currently learning and studying at 1337 school!
-[jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
   
 
 <br/>  
