@@ -10,7 +10,6 @@
 
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
-
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=default&bar_color=020af2&bar_color_cover=true)
 
 ![Repos Badge](https://badges.pufler.dev/repos/m0hs1ne)
