@@ -1,5 +1,21 @@
+# About ME 💬 :
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&multiline=true&height=100&lines=Hi+i'm+Mohsine+aka+m0hs1ne;a+passionate+programmer;studying+in+1337" /></div>
+### - I'm Mohsine aka m0hs1ne a skinny passionate programmer from Morocco
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ I'm currently studying at 1337 i will update this section when i find myself.
+
+### - Hobbies : 
+- ✨ Watching Anime
+- ✨ Fan of Marvel world
+- ✨ Reading Mangas
+- ✨ Sleeping (the best XD)
+
+</br>
+</br>
+</br>
 
 
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/mel-hada?" /></div>
