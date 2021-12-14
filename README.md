@@ -1,3 +1,6 @@
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</br>
+
 # About ME 💬 :
 
 ### - I'm Mohsine aka m0hs1ne a skinny passionate programmer from Morocco
