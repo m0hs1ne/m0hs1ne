@@ -1,5 +1,6 @@
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23000000&lines=Hi+i'm+Mohsine+aka+m0hs1ne+%2C+a+passionate+programmer" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&multiline=true&height=100&lines=Hi+i'm+Mohsine+aka+m0hs1ne;a+passionate+programmer;studying+in+1337" /></div>
+
   
 
 
