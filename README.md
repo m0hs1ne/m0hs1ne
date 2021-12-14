@@ -1,7 +1,15 @@
-### Hi there 👋, my name is Mohsine aka m0hs1ne
-#### I am a passionate newbie programmer
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🌱 I’m currently learning and studying in 1337 schools 
+### <div align="center">I'm Mohsine aka m0hs1ne, a passionate newbie programmer</div>  
+  
+
+- 🌱 I’m currently learning and studying at 1337 school  
+  
+
+<br/>  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m0hs1ne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m0hs1ne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m0hs1ne_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m0hs1ne)  
