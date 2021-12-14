@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)]
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
 
 [![Spotify](spotify-m0hs1ne.vercel.app/api/spotify)](https://open.spotify.com/user/31wgxkahtwpfmyhcl2moui5azrbm)
