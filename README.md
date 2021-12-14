@@ -6,8 +6,7 @@
 ### <div align="center">I'm Mohsine aka m0hs1ne, a passionate newbie programmer</div>  
   
 
-- 🌱 I’m currently learning and studying at 1337 school
-- ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
+- 🌱 I’m currently learning and studying at 1337 school![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
   
 
 <br/>  
