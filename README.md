@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 [![Spotify](https://spotify-m0hs1ne.vercel.app/api/spotify/?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/31wgxkahtwpfmyhcl2moui5azrbm)
 
-![Years Badge](https://badges.pufler.dev/years/m0hs1ne)
-
 ![Repos Badge](https://badges.pufler.dev/repos/m0hs1ne)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/m0hs1ne)
