@@ -14,8 +14,7 @@
 
 <br/>  
 
-You can reach me here : 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m0hs1ne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m0hs1ne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m0hs1ne_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m0hs1ne)  
+  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne" /></div>
 
