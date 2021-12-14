@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23000000&lines=Hi+i'm+Mohsine+aka+m0hs1ne+%2C+a+passionate+programmer)](https://git.io/typing-svg)
 
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23000000&lines=Hi+i'm+Mohsine+aka+m0hs1ne+%2C+a+passionate+programmer" /></div>
   
 
 
