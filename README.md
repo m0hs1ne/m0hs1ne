@@ -20,7 +20,3 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=default&bar_color=020af2&bar_color_cover=true" /></div>  
 
-<div align="center"><img src="https://badges.pufler.dev/repos/m0hs1ne" /></div>
-<div align="center"><img src="https://badges.pufler.dev/monthly/m0hs1ne" /></div>
-
-
