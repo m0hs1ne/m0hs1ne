@@ -24,7 +24,7 @@
 
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/mel-hada?" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne" /></div>
+# I love music 🎧 :
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
 
