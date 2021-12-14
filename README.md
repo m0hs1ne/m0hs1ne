@@ -19,8 +19,8 @@ You can reach me here :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=default&bar_color=020af2&bar_color_cover=true" /></div>  
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=default&bar_color=020af2&bar_color_cover=true)
 
 ![Repos Badge](https://badges.pufler.dev/repos/m0hs1ne)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/m0hs1ne)
