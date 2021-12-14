@@ -6,7 +6,8 @@
 ### <div align="center">I'm Mohsine aka m0hs1ne, a passionate newbie programmer</div>  
   
 
-- 🌱 I’m currently learning and studying at 1337 school  
+- 🌱 I’m currently learning and studying at 1337 school
+- ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
   
 
 <br/>  
@@ -16,8 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada?)
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgxkahtwpfmyhcl2moui5azrbm&cover_image=true&theme=default&bar_color=020af2&bar_color_cover=true)
 
