@@ -22,9 +22,9 @@
 
 # My stats at 1337 📊 :
 
-<div align="center"><img src="https://badge42.herokuapp.com/api/stats/mel-hada?" /></div>
+<div align="center"><img src="https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=mel-hada" /></div>
 
 # I love music 🎧 :
 
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31wgxkahtwpfmyhcl2moui5azrbm&count=5" /></div> 
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31danqfp77b3rdedmxj5csj5tg3i&count=5" /></div> 
 
