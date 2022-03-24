@@ -24,7 +24,7 @@
 
 <div align="center"><img src="https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=mel-hada" /></div>
 
-# Waka stats
+# Coding stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
