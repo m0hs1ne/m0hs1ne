@@ -21,3 +21,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "False"
           SHOW_LOC_CHART: "False"
+          IGNORED_REPOS: "m0hs1ne"
