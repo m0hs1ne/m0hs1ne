@@ -24,7 +24,8 @@
 
 <div align="center"><img src="https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=mel-hada" /></div>
 
-# I love music 🎧 :
+# Waka stats
 
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31danqfp77b3rdedmxj5csj5tg3i&count=5" /></div> 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
