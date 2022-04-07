@@ -20,4 +20,4 @@
 
 # My stats at 1337 📊 :
 
-<div align="center"><img src="https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=mel-hada" /></div>
+<div align="center"><img src="https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/stats?cursusId=21&coalitionId=80" /></div>
