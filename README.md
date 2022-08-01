@@ -14,10 +14,15 @@
 - ✨ Reading Mangas
 - ✨ Sleeping (the best XD)
 
-</br>
-</br>
-</br>
-
 # My stats at 1337 📊 :
 
 <div align="center"><img src="https://badge.mediaplus.ma/m0hs1ne/mel-hada" /></div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+# 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
