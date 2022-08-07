@@ -14,9 +14,9 @@
 - ✨ Reading Mangas
 - ✨ Sleeping (the best XD)
 
-# My stats at 1337 📊 :
+# :camera: My 42 Cursus Intra Profile
 
-<div align="center"><img src="https://badge.mediaplus.ma/m0hs1ne/mel-hada" /></div>
+![mel-hada's 42 stats](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/stats?cursusId=21&coalitionId=80)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
