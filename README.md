@@ -19,5 +19,3 @@
 
 ![mel-hada's 42 stats](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/stats?cursusId=21&coalitionId=80)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hs1ne&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
