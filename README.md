@@ -15,7 +15,7 @@
 - ✨ Reading Mangas
 - ✨ Sleeping (the best XD)
 
-# :camera: My 42 Cursus Intra Profile
+# :camera: My TryHackMe Profile
 
-![mel-hada's 42 stats](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/stats?cursusId=21&coalitionId=80)
+ <img src="https://tryhackme-badges.s3.amazonaws.com/m0hs1ne.png" alt="TryHackMe">
 
