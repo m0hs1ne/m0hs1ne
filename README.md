@@ -15,7 +15,11 @@
 - ✨ Reading Mangas
 - ✨ Sleeping (the best XD)
 
-# :camera: My TryHackMe Profile
+# My TryHackMe Profile :
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/m0hs1ne.png" alt="TryHackMe">
+ 
+# My HackTheBox Profile :
+
+![](https://www.hackthebox.eu/badge/image/802540)
 
