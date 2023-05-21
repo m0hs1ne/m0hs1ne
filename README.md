@@ -17,7 +17,7 @@
 
 # My TryHackMe Profile :
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/m0hs1ne.png" alt="TryHackMe">
+![](https://tryhackme-badges.s3.amazonaws.com/m0hs1ne.png)
  
 # My HackTheBox Profile :
 
