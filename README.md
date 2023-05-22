@@ -15,10 +15,6 @@
 - ✨ Reading Mangas
 - ✨ Sleeping (the best XD)
 
-# My TryHackMe Profile :
-
-![](https://tryhackme-badges.s3.amazonaws.com/m0hs1ne.png)
- 
 # My HackTheBox Profile :
 
 ![](https://www.hackthebox.eu/badge/image/802540)
