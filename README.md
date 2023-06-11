@@ -16,4 +16,4 @@
 - ✨ Sleeping (the best XD)
 
 # My TryHackMe Profile :
-![tryhackme stats](https://raw.githubusercontent.com/m0hs1ne/m0hs1ne/master/assets/thm_propic.png)
+![tryhackme stats](assets/thm_propic.png)
